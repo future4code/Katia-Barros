@@ -1,0 +1,9 @@
+Sobre mim
+Olá meu nome é Kátia Barros, nasci no Pará mas me mudei 
+ainda criança para Minas Gerais e atualmente moro na 
+Bahia. Biologia de formação, Confeiteira de Profissão
+e agora tentando entender o Hello World. Comecei a 
+gostar de programação na época da faculdade quando quis 
+ser Perita Criminal, mas acabei indo para área da Genética
+que respira tecnologia.
+Adoro ler, caminhar e correr e descobrir coisas novas.
