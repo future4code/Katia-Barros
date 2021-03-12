@@ -1,5 +1,5 @@
 <div class="grad-container">
-        <h3 class="title2">Conheça nossa equipe</h3>
+        <h3 class="title2">ConheÃ§a nossa equipe</h3>
            
         <div class="row">
             <div class="col-4">
