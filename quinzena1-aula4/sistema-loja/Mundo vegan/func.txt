@@ -1,0 +1,25 @@
+<div class="grad-container">
+        <h3 class="title2">Conheça nossa equipe</h3>
+           
+        <div class="row">
+            <div class="col-4">
+               <img src="img/product-2.png.png" width="200" height="200">
+               <h4>Diogo Terror</h4>
+            </div>
+            
+            <div class="col-4">
+               <img src="img/product-2.png.png" width="200" height="200">
+               <h4>Tereza Barros</h4>
+            </div>
+               
+            <div class="col-4">
+               <img src="img/product-2.png.png" width="200" height="200">
+               <h4>Vera Barros</h4>
+            </div>
+               
+            <div class="col-4">
+               <img src="img/product-2.png.png" width="200" height="200">
+               <h4>Wilmar Craveiro</h4>
+            </div>  
+            </div>   
+        </div>
