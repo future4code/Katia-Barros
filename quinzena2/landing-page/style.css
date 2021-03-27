@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Rhodium+Libre&display=swap');
+
+
+body{    
+    font-family: 'Rhodium Libre', serif;
+    margin:0;
+    padding: 0;
+    
+}
+/*cabeçalho*/
+
+header{
+    background-color: #1f1f24;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    list-style-type: none;      
+}
+
+header section{
+    justify-self: center;
+    align-self: center; 
+}
+
+nav{
+    justify-self: center;
+    align-self: center;   
+}
+
+nav li{
+    display: inline;
+    padding: 15px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #638484;
+    font-size: 1.2em;
+}
+nav a:hover{
+    color:aqua;
+}
+
+#logo{
+    height: 250px;
+}
+
+.redes{
+    height: 40px;
+}
+
+/*principal*/
+
+main{
+    display: grid;
+    min-height: 60vh;
+}
+
+/*footer*/
+
+footer{
+    background-color: #d2c2b0;
+    min-height: 5vh;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+@media screen and (max-width: 375px){
+    body{
+        padding-bottom: 30vh;
+    } 
+}
+
+
+
+
+
+
+
+
+
+
